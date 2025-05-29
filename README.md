@@ -7,3 +7,14 @@ Objectives
 - Assess Public Sentiment: To evaluate the sentiment (positive, negative, or neutral) of Bhutanese news shared on social media platforms.
 - Identify Key Themes and Topics: To identify the main themes and topics that resonate with the public based on social media discussions surrounding Bhutanese news.
 - Visualize Sentiment Trends: To track and visualize sentiment trends over time, offering actionable insights that can inform media strategies, public discourse, and policymaking.
+
+
+Here's our logo (hover to see the title text):
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
